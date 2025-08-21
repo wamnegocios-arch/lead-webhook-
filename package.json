@@ -1,8 +1,11 @@
 {
   "name": "lead-webhook",
   "private": true,
-  "type": "module",
   "dependencies": {
     "googleapis": "^133.0.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
+
